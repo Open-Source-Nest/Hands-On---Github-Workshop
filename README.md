@@ -2,9 +2,6 @@
 
 ## Description
 
-This is our practical session during the hands on session on git, join us to contribute.
-Thanks.
+Just decdied to walk around the Open Source Nest
+doing some basics task that invloves git and GitHub, was super excited.
 
-thanks for joining
-
-Be sure to follow us on [X](https://x.com/opensourcenest)
