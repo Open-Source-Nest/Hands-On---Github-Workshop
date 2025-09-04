@@ -1,8 +1,16 @@
 # Hands on Workshop Day 4
 
+This session is majorly about learning how to collaborate and contribute to open source and closed-source repositories.
+
 ## Description
 
-This is our practical session during the hands on session on git, join us to contribute.
-Thanks.
+Checklist:
 
-thanks for joining
+[x] Added Django Framework
+[x] Modfied the environment
+[] Made it super awesome
+
+
+Thanks for being a part of this amazing session, feel free to add your PRs (Pull Requests) and ask for reviews :)
+
+Yippe !!
