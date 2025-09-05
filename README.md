@@ -7,4 +7,6 @@ Thanks.
 
 thanks for joining
 
+this is a new day , lets have 
+
 Be sure to follow us on [X](https://x.com/opensourcenest)
