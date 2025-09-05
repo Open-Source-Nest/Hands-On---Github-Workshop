@@ -6,6 +6,7 @@ This is our practical session during the hands on session on git, join us to con
 Thanks.
 
 thanks for joining
+for the wages of sin is death and the gift of god is eternal life 
 
 this is a new day , lets have 
 
